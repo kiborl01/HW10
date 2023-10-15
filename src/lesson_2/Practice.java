@@ -1,5 +1,7 @@
 package lesson_2;
 
+import java.util.Scanner;
+
 public class Practice {
     public static void main(String[] args) {
         /**Арифметические операторы
@@ -11,7 +13,6 @@ public class Practice {
          ++ Инкремент - увеличивает значение операнда на 1 х++ постфиксная, ++х префиксная
          -- Декремент - уменьшает значение операнда на 1 х-- постфиксная, --х префиксная
          * */
-
 
 
 
