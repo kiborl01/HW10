@@ -49,6 +49,8 @@ public class HW_4 {
             System.out.println("Все три введеных числа  = " + p);
         }
 
+        
+
         System.out.println("-------------------------------------------");
         System.out.println("Задание 4");
 
