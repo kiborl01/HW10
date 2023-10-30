@@ -2,12 +2,14 @@ package lesson_6;
 
 public class Cat {
     // field - поле класса
-    String name;
-    int age;
-    String breed;
-    String color;
+    private String name;
+    private int age;
+    private String breed;
+    private String color;
 
     // constructor - конструктор
+    public Cat(){
+    }
 
     public Cat(String name){
         this.name = name;
@@ -52,6 +54,9 @@ public class Cat {
 
     public String getColor() {
         return color;
+    }
+    public void printName(){
+        System.out.println("My name is " + this.name);
     }
 
 }

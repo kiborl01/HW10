@@ -5,6 +5,7 @@ public class Main {
         Cat snezhok = new Cat("Snezhok" );
         Cat pushok = new Cat(10);
         Cat belok = new Cat("Belyash",10);
+
         System.out.println("My cat's name is " + belok.getName() + " his age is " + belok.getAge());
 
         Dog dog1 = new Dog();
@@ -24,5 +25,7 @@ public class Main {
         System.out.println("His age is " + snezhok.getAge());
         System.out.println("His breed is " + snezhok.getBreed());
         System.out.println("Hi is " + snezhok.getColor());
+
+        belok.printName();
     }
 }
