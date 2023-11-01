@@ -1,4 +1,4 @@
-package lesson__7;
+package lesson_7.initialization;
 
 public class Initialization {
     public static void main(String[] args) {

@@ -1,9 +1,5 @@
-package lesson__7;
+package lesson_7.initialization;
 
-
-import lesson_7.HW_7.Animal;
-
-import java.util.Objects;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lesson_7.HW_7;
+package lesson_7.HW_7.question1;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,6 +8,8 @@ public class Main {
         Animal animal1 = new Animal("Milk", "House");
         Animal animal2 = new Animal("Meat", "Vol'er");
         Animal animal3 = new Animal("Grass", "Meadow");
+
+
 
 
         Animal[] animals = {animal1,animal2,animal3};

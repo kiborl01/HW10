@@ -1,4 +1,4 @@
-package lesson__7;
+package lesson_7.initialization;
 
 import java.util.random.RandomGenerator;
 

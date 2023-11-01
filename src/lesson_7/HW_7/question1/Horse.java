@@ -1,4 +1,4 @@
-package lesson_7.HW_7;
+package lesson_7.HW_7.question1;
 
 public class Horse extends Animal {
 
