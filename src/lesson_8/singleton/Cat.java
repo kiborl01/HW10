@@ -1,4 +1,4 @@
-package lesson__8.singleton;
+package lesson_8.singleton;
 
 public class Cat {
     private static Cat cat;

@@ -37,5 +37,15 @@ public class StringTest {
         String finalEmail = email.toLowerCase();
         System.out.println("Your email is correct : " + finalEmail);
 
+
+//        int a = 5;
+//        int b = 10;
+//
+//        System.out.println(a == b);
+
+        String s1 = "Hello!";
+        String s2 = "Goodbye";
+
+        System.out.println(s1.equals(s2));
     }
 }
